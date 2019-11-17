@@ -1,5 +1,5 @@
 # Weekend-movie-trip
-Blockbuster or art film?
+##Blockbuster or art film?
 
 1.Set up a data science project structure in a new git repository in your GitHub account
 
@@ -12,6 +12,6 @@ https://grouplens.org/datasets/movielens/
 
 5.Build one or more clustering models to determine similar movies to recommend using the other ratings and tags of movies by other users as features
 
-6. Document your process and results
+6.Document your process and results
 
-7. Commit your notebook, source code, visualizations and other supporting
+7.Commit your notebook, source code, visualizations and other supporting
